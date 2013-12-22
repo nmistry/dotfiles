@@ -41,6 +41,8 @@ install brew-cask
 ## Applications
 cask install alfred
 cask install cyberduck
+cask install virtualbox
+cask install vagrant
 cask install wireshark
 
 ## Quicklook utilities
